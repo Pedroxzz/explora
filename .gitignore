@@ -1,0 +1,11 @@
+# Arquivos do ambiente virtual (se usar virtualenv, venv, etc)
+venv/
+.env/
+
+# Arquivos de IDEs
+.vscode/
+.idea/
+
+# Arquivos de sistemas operacionais
+.DS_Store          # macOS
+Thumbs.db          # Windows
